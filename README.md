@@ -2,7 +2,7 @@
 
 ##
 
-### Welcome to My Profile <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F932887334037389323.gif%3Fv%3D1&w=64&q=75" width="25"> 
+### <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F932887334037389323.gif%3Fv%3D1&w=64&q=75" width="25"> Welcome to My Profile 
 I'm Currently working as a front-end developer with React JS!
 - ♾️ Learning about all the technologies this world has to offer.
 - 📖 Addicted to books on every possible subject.

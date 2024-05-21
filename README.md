@@ -7,6 +7,7 @@
 - ♾️ Learning about all the technologies this world has to offer.
 - 📖 Addicted to books on every possible subject.
 - 🔷 Passion for web development and UX.
+
 ##
 
 ### My Stats
@@ -15,7 +16,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ns-skay&show_icons=true&theme=github_dark_dimmed)](https://github.com/ns-skay)
 ##
 
-### My Tech Library
+### My Languages and Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

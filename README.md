@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1178740466158678117/1242196173562052668/blue-night-mountains-desktop-wallpaper-preview.jpg?ex=664cf4d6&is=664ba356&hm=a2e9abece7c0100da7f60edc88a93962a8ac03100b489b6740e67fd3eeaa4a3d&">
+<img src="https://cdn.discordapp.com/attachments/1178740466158678117/1242196173562052668/blue-night-mountains-desktop-wallpaper-preview.jpg?ex=66977196&is=66962016&hm=e658a55890c4fdbff86cc704c5bad9ac6d19b5a8934336fec4b271ca5e4f414b&">
 
 ##
 
